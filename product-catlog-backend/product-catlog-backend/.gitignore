@@ -31,3 +31,11 @@ build/
 
 ### VS Code ###
 .vscode/
+# React
+node_modules/
+build/
+# Spring Boot
+target/
+*.log
+*.class
+*.jar
