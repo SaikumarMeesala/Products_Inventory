@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ProductCatlogBackendApplication",
+            "request": "launch",
+            "mainClass": "com.crud_rest_api.product_catlog_backend.ProductCatlogBackendApplication",
+            "projectName": "product-catlog-backend"
+        },
+        {
+            "type": "java",
+            "name": "Product",
+            "request": "launch",
+            "mainClass": "com.example.productcatalog.model.Product",
+            "projectName": "product-catalog-backend"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
